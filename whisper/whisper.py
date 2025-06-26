@@ -24,6 +24,7 @@ from transformers import WhisperProcessor, WhisperForConditionalGeneration
 
 # In[3]:
 
+print("Hello")
 
 # ------------------------------
 # 📁 2. 경로 설정
